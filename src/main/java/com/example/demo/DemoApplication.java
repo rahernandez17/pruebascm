@@ -13,5 +13,9 @@ public class DemoApplication {
 	public static void decirApellido() {
 		System.out.println("Hernandez");
 	}
+
+	public static void decirNombre() {
+		System.out.println("Raul");
+	}
 	
 }
