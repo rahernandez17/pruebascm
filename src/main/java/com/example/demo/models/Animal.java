@@ -7,4 +7,6 @@ public class Animal {
     private String tipo;
 
     private String raza;
+
+    private String sexo;
 }
