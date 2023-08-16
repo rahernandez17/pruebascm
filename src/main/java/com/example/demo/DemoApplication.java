@@ -17,8 +17,4 @@ public class DemoApplication {
 	public static void decirNombre() {
 		System.out.println("Raul");
 	}
-
-	public static void decirEdad() {
-		System.out.println("25 años");
-	}
 }

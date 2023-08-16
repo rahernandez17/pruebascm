@@ -7,4 +7,6 @@ public class Persona {
     private String apellido;
 
     private String cargo;
+
+    private Integer cantidadHijos;
 }
